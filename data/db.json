@@ -1,0 +1,135 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img": "https://picsum.photos/100/100",
+      "title": "iphone 14 pro max",
+      "price": "12 250 650"
+    },
+    {
+      "id": 2,
+      "img": "https://picsum.photos/100/100",
+      "title": "iphone 13 pro max",
+      "price": "10 250 650"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "path": "apple"
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "path": "samsung"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi",
+      "path": "xiaomi"
+    },
+    {
+      "id": 4,
+      "name": "Artel",
+      "path": "artel"
+    },
+    {
+      "id": 5,
+      "name": "Motorola",
+      "path": "motorola"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Iphone smartfonlari",
+      "img": "https://picsum.photos/60/71"
+    },
+    {
+      "id": 2,
+      "name": "Quloqchinlar",
+      "img": "https://picsum.photos/60/71"
+    },
+    {
+      "id": 3,
+      "name": "PowerBanklar",
+      "img": "https://picsum.photos/60/71"
+    },
+    {
+      "id": 4,
+      "name": "Chexollar",
+      "img": "https://picsum.photos/60/71"
+    },
+    {
+      "id": 5,
+      "name": "Kompyuter sichqonchasi",
+      "img": "https://picsum.photos/60/71"
+    }
+  ],
+  "single": {
+    "id": 1,
+    "name": "iPhone 14 Pro Max",
+    "images": [
+      {
+        "img": "https://picsum.photos/60/71"
+      },
+      {
+        "img": "https://picsum.photos/60/71"
+      }
+    ],
+    "colors": [
+      {
+        "color": "#DAC8AF"
+      },
+      {
+        "color": "#000"
+      },
+      {
+        "color": "#D540F3"
+      },
+      {
+        "color": "#F1F3F2"
+      }
+    ],
+    "price": "10 250 650",
+    "count": 102
+  },
+  "like": [
+    {
+      "id": 1,
+      "name": "Iphone smartfonlari",
+      "img": "https://picsum.photos/60/71",
+      "count": 102,
+      "price": "10 250 650"
+    },
+    {
+      "id": 2,
+      "name": "Quloqchinlar",
+      "img": "https://picsum.photos/60/71",
+      "count": 102,
+      "price": "10 250 650"
+    },
+    {
+      "id": 3,
+      "name": "PowerBanklar",
+      "img": "https://picsum.photos/60/71",
+      "count": 102,
+      "price": "10 250 650"
+    },
+    {
+      "id": 4,
+      "name": "Chexollar",
+      "img": "https://picsum.photos/60/71",
+      "count": 102,
+      "price": "10 250 650"
+    },
+    {
+      "id": 5,
+      "name": "Kompyuter sichqonchasi",
+      "img": "https://picsum.photos/60/71",
+      "count": 102,
+      "price": "10 250 650"
+    }
+  ]
+}
